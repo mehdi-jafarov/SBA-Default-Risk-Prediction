@@ -23,7 +23,7 @@ Take the entire `Data` folder and put it inside your project folder.
 
 ### Gross Disbursement:
 **CHGOFF and PIF Quartiles**
-| Quartiles     | CHGOFF      | PIF        |
+| Quartiles     | Default     | Repaid     |
 |---------------|-------------|------------|
 | 100% maximum  | $4,362,157  | $11,446,325|
 | 75% quartile  | $140,613    | $255,000   |
