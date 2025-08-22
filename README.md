@@ -9,7 +9,7 @@ You can download them from Google Drive:
 Take the entire `Data` folder and put it inside your project folder.
 
 # Identifying Predictors of Potential Risk
-### Location: `State`
+### Location:
 
 ![State Default Rates](Figures/fig_state_defaults.png)
 
@@ -17,11 +17,11 @@ Take the entire `Data` folder and put it inside your project folder.
 - Mountain and Northern Plains states like Montana, Wyoming, and Vermont have the lowest default rates (<8%), showing relatively safer lending environments.
 
 
-### Industry: `NAICS`
+### Industry:
 - Real Estate, Finance, and Transportation show the highest default rates (~28–29%), indicating high-risk sectors.
 - Mining, Health Care, and Management have the lowest default rates (<11%), suggesting more stable lending.
 
-### Gross Disbursement: `DisbursementGross`
+### Gross Disbursement:
 **CHGOFF and PIF Quartiles**
 | Quartiles     | CHGOFF      | PIF        |
 |---------------|-------------|------------|
@@ -35,13 +35,13 @@ Take the entire `Data` folder and put it inside your project folder.
 - Large loans are often safer: 75% quartile for repaid 255K > defaulted $140K.
 - `DisbursementGross` is a strong predictor: Clear difference between distributions for defaulted vs repaid loans.
 
-### New versus Established Businesses: `NewExist`
+### New versus Established Businesses:
 <img src="Figures/fig_newexist_defaults.png" alt="Default Rates by NewExist" width="280">
 
 - New businesses default slightly more than existing businesses.
 - `NewExist` is not a strong predictor.
 
-### Loans Backed by Real Estate: `RealEstate`
+### Loans Backed by Real Estate:
 
 | RealEstate                         | Default % | Repaid % |
 |------------------------------------|---------|--------|
@@ -51,13 +51,13 @@ Take the entire `Data` folder and put it inside your project folder.
 - Real-estate loans are far safer, with 12-13x lower default risk.
 - `RealEstate` is a strong predictor.
 
-### Economic Recession: `Recession`
+### Economic Recession:
 <img src="Figures/fig_recession_rates.png" alt="Loan Outcomes During Recession" width="600">
 
 - Loans active during the Great Recession have a higher default rate (32.3%) than loans that were not active during the Recession (16.9%).
 - `Recession` shows some economic impact and may support other predictors in the model.
 
-### SBA's Guaranteed Portion of Approved Loan: `Portion`
+### SBA's Guaranteed Portion of Approved Loan:
 <img src="Figures/fig_portion_rates.png" alt="SBA Guaranteed Portion" width="290">
 
 - Defaulted loans tend to have a slightly lower median SBA portion than fully paid loans.
