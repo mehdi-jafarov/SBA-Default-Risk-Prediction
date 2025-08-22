@@ -1,0 +1,26 @@
+NAICS2,Description,CHGOFF
+0,,8.26
+11,"Agriculture, forestry, fishing and hunting",9.36
+21,"Mining, quarrying, and oil and gas extraction",8.86
+22,Utilities,14.71
+23,Construction,23.91
+31,Manufacturing,19.93
+32,Manufacturing,16.75
+33,Manufacturing,13.97
+42,Wholesale trade,20.02
+44,Retail trade,22.73
+45,Retail trade,23.64
+48,Transportation and warehousing,28.04
+49,Transportation and warehousing,23.49
+51,Information,25.42
+52,Finance and insurance,29.21
+53,Real estate and rental and leasing,29.47
+54,"Professional, scientific, and technical services",19.62
+55,Management of companies and enterprises,10.44
+56,"Administrative and support, waste management",24.07
+61,Educational services,24.72
+62,Health care and social assistance,10.64
+71,"Arts, entertainment, and recreation",20.97
+72,Accommodation and food services,22.44
+81,Other services (except public administration),19.89
+92,Public administration,15.25

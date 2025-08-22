@@ -1,0 +1,7 @@
+Dep. Variable:,Default,  No. Observations:  ,  1051
+Model:,Logit,  Df Residuals:      ,  1047
+Method:,MLE,  Df Model:          ,     3
+Date:,"Sat, 09 Aug 2025",  Pseudo R-squ.:     ,0.1732
+Time:,03:03:40,  Log-Likelihood:    , -541.38
+converged:,True,  LL-Null:           , -654.77
+Covariance Type:,nonrobust,  LLR p-value:       ,6.874e-49
