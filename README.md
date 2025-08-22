@@ -126,7 +126,7 @@ The model has a fair ability to classify positives and negatives, with an AUC of
 
 # Using the Model to Make Decisions
 
-##### Loan Applications
+**Loan Applications**
 
 | Loan | Date                   | Loan Amount Requested | SBA Portion Guaranteed | Secured by Real Estate? | Estimated Probability of Default | Approve? |
 |------|------------------------|---------------------|-----------------------|------------------------|---------------------------------|----------|
