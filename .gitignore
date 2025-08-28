@@ -1,0 +1,8 @@
+Data/
+*.csv
+*.txt
+
+*.pkl
+*.joblib
+
+.ipynb_checkpoints/
