@@ -1,11 +1,12 @@
+# SBA Loan Default Risk Prediction
+
+This project follows the methodology of the article *[“Should This Loan be Approved or Denied?”](https://doi.org/10.1080/10691898.2018.1434342)*, identifying indicators of potential risk in SBA loan data, building and validating a logistic regression model, and applying the model to make lending decisions.
+
 ## Data
 
-The datasets required for this project are **not included** in the repository.  
+The datasets are **not included** in the repository.  
 
-You can download them from Google Drive:
-
-- [SBA Data](https://drive.google.com/drive/folders/1BzDlg9ayYNchEKgYmHkag7I4XJEdOmjf?usp=sharing)
-
+You can download them from **[here](https://drive.google.com/drive/folders/1BzDlg9ayYNchEKgYmHkag7I4XJEdOmjf?usp=sharing).**
 Take the entire `Data` folder and put it inside your project folder.
 
 # Identifying Predictors of Potential Risk
